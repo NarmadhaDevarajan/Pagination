@@ -1,24 +1,11 @@
-body {
-    background-color: black;
-    color: white;
+.Pagination {
+    display: inline-block;
   }
   
-  #nav-bar {
-    position: relative;
-    top: 12cm;
+  .Pagination a {
+    color: blue;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
   }
   
-  #description {
-    font-size: large;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
-  #table-head {
-    color: white;
-  }
-  
-  #button {
-    border: none;
-    padding: 7px;
-    border-radius: 0;
-    outline: 0;
-  }
